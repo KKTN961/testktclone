@@ -1,0 +1,24 @@
+{
+  "name": "testktclone",
+  "version": "1.0.0",
+  "description": "my Development testktclone app code",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KKTN961/testktclone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/KKTN961/testktclone/issues"
+  },
+  "homepage": "https://github.com/KKTN961/testktclone#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
